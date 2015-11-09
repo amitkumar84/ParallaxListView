@@ -1,3 +1,0 @@
-# ParallaxListView
-
-ParallaxListView in android
